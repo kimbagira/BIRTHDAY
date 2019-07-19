@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="css/styles.css" rel="stylesheet" type="text/css">
+        <script src="js/script.js"></script>
+        <h1> HOW TO GET YOUR AKAN NAME</h1>
+        <p>this game is for having an akan name depending on anyone's birthday,
+            what is required is to fill your birthday century,year,month,day,modulus
+            and your gender.
+            after that you click on the submit button</p>
+    </head>
+<body>
+  <form action="/action_page.php">
+ 
+    <p><em>enter the year of your birth day</em></p>
+              year:<br>
+    <input id="one" type="number" name="year" min="0"  value=""><br>  
+
+    <p><strong>enter the month of your birth day</strong></p>
+             month:<br>
+  
+  <input id="two" type="number" name="month" min="0" max="12" value=""><br>  
+  
+  <p><spam>enter the day of your birth day</spam></p>  
+             day:<br>
+  
+  <input id="three" type="number" name="day" min="0" max="31" value=""><br>
+
+  <p><strong>select your gender</strong></p>              
+             gender:<br>
+  <input type="radio" name="gender" value="male"> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="button" value="Submit" onclick="put()">
+  <p id="answer"></p>
+</form> 
+
+</body>
+</html>
