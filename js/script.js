@@ -14,9 +14,11 @@ function put(){
     if (gender==="female") {
         alert(gender);
         console.log(array1[Math.round(dayoftheweek)]);
+        document.getElementById("answer").innerHTML = array1[Math.round(dayoftheweek)];
     }
     else if (gender==="male"){
         console.log(array2[Math.round(dayoftheweek)]);
+        document.getElementById("answer").innerHTML = array1[Math.round(dayoftheweek)];
     }
       else if (dd<=0 || dd>31) {
       
@@ -27,4 +29,5 @@ function put(){
       else{
           console.log("done");
       }
+
 }
