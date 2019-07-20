@@ -1,7 +1,6 @@
-# BIRTHDAY
+## BIRTHDAY
 B.D
-portfolio project
-my project is a portfolio which includes:the home ,about me and my projects.
+GET YOUR AKAN NAME
  By kimbagira
 ## Description
 This project containe the 
