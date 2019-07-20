@@ -2,7 +2,8 @@
 B.D
 GET YOUR AKAN NAME
 this game is about giving  Akan names  depanding on your birth day.the Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born
- By kimbagira
+## Author
+ By kimbagira sylvie
 ## Description
 this game is for having an akan name depending on anyone's birthday,
 what is required is to fill your birthday year,month,day,and your gender.
@@ -19,18 +20,12 @@ if (dd<0 || dd>31) {
         it alert the gender,
         and it olso console.log the day of the week you were born,
         and finaly  it brings your akan name.
-    }
-    else if(gender==="male"){
-         alert(gender);
-        console.log(array2[Math.round(dayoftheweek)]);
-        document.getElementById("answer").innerHTML = array2[Math.round(dayoftheweek)];
-    }
-     
-      else{
-          console.log("done");
-      }
-
-
+        
+    
+   else if the gender is male
+        it alert the gender,
+        and it olso console.log the day of the week you were born,
+        and finaly  it brings your akan name.
 ## Setup/Installation Requirements
 1.you must have a terminal.
 2.you must have a brower.
