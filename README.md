@@ -1,5 +1,4 @@
-## Project name
-BIRTHDAY
+## AKAN NAMES
 GET YOUR AKAN NAME
 this game is about giving  Akan names  depanding on your birth day.the Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born
 ## Author
@@ -30,7 +29,7 @@ if (dd<0 || dd>31) {
 1.you must have a terminal.
 2.you must have a brower.
 3.you need to have a visual  studio or atom.
-##link of my repository
+## link of my repository
  https://kimbagira.github.io/BIRTHDAY/
 ## Known Bugs
 no bugs 
