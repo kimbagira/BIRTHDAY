@@ -39,8 +39,8 @@ my project don't have bugs
 ## Technologies Used
  the languages that I used are:HTML and CSS.
 ## Support and contact details
-if you face any  issue ,contact me on:
-emai=sylviekimbagira@gmail.com,
+for any question contact me on:
 phone number=0786558890
+emai=sylviekimbagira@gmail.com
 ### License
-Copyright (c)
+Copyright (c) 2019 kimbagira sylvie
