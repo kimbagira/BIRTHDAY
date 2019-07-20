@@ -8,7 +8,6 @@ GET YOUR AKAN NAME
 ## Setup/Installation Requirements
 1.you must have a terminal.
 2.you must have a brower.
-3.you must have visual studio or atom.
 ##link of my repository
  https://kimbagira.github.io/BIRTHDAY/
 ## Known Bugs
