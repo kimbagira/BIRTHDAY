@@ -7,6 +7,30 @@ this game is about giving  Akan names  depanding on your birth day.the Akan name
 this game is for having an akan name depending on anyone's birthday,
 what is required is to fill your birthday year,month,day,and your gender.
 after that you click on the submit button, the needed information will appear immediatly.
+
+it olso contain some conditions:
+if (dd<0 || dd>31) {
+        alert("enter a valid day");  
+      }
+      else if (mm<0 || mm> 12)
+        it alert that you have to enter valid month"
+    
+      else if (gender==="female") {
+        alert(gender);
+        console.log(array1[Math.round(dayoftheweek)]);
+        document.getElementById("answer").innerHTML = array1[Math.round(dayoftheweek)];
+    }
+    else if(gender==="male"){
+         alert(gender);
+        console.log(array2[Math.round(dayoftheweek)]);
+        document.getElementById("answer").innerHTML = array2[Math.round(dayoftheweek)];
+    }
+     
+      else{
+          console.log("done");
+      }
+
+
 ## Setup/Installation Requirements
 1.you must have a terminal.
 2.you must have a brower.
