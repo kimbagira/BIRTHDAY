@@ -15,10 +15,10 @@ if (dd<0 || dd>31) {
       else if (mm<0 || mm> 12)
         it alert that you have to enter valid month"
     
-      else if (gender==="female") {
-        alert(gender);
-        console.log(array1[Math.round(dayoftheweek)]);
-        document.getElementById("answer").innerHTML = array1[Math.round(dayoftheweek)];
+   else if the gender is female
+        it alert the gender,
+        and it olso console.log the day of the week you were born,
+        and finaly  it brings your akan name.
     }
     else if(gender==="male"){
          alert(gender);
