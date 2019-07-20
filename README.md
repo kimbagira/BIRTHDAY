@@ -1,8 +1,8 @@
 ## AKAN NAMES
 GET YOUR AKAN NAME
-this game is about giving  Akan names  depanding on your birth day.the Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born
+this game is about giving  Akan names  depanding on your birth day.the Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
 ## Author
- By kimbagira sylvie
+By kimbagira sylvie.
 ## Description
 this game is for having an akan name depending on anyone's birthday,
 what is required is to fill your birthday year,month,day,and your gender.
@@ -15,7 +15,7 @@ the year.
 the month.
 the day.
 * select the gender
-* finaly click on the submit button, you will immediatly see your Akan name 
+* finaly click on the submit button, you will immediatly see your Akan name.
 ## BDD.
 ### behaviour
 * enter your valid birthday date i.e:year/month/day.
@@ -28,13 +28,13 @@ the day.
 ## link of my repository
  https://kimbagira.github.io/BIRTHDAY/
 ## Known Bugs
-* no bugs 
+* no bugs. 
 ## Technologies Used
 the languages used are:
  HTML,CSS,JAVASCRIPT and Git to track my changes.
 ## Support and contact details
 * for any question contact me on:
-phone number=0786558890
+phone number=0786558890.
 emai=sylviekimbagira@gmail.com
 ### License
-Copyright (c) 2019 kimbagira sylvie
+Copyright (c) 2019 kimbagira sylvie.
