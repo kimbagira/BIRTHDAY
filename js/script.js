@@ -11,11 +11,11 @@ function put(){
   
     var gender = document.querySelector('input[name="gender"]:checked').value;
 
-     if (dd<=0 || dd>31) {
+     if (dd<0 || dd>31) {
         alert("enter a valid day");  
       
       }
-      else if (mm<= 0 || mm> 12)  {
+      else if (mm<0 || mm> 12)  {
         alert("enter a valid month");  
       }
     
