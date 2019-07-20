@@ -4,7 +4,9 @@ GET YOUR AKAN NAME
 this game is about giving  Akan names  depanding on your birth day.the Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born
  By kimbagira
 ## Description
-
+this game is for having an akan name depending on anyone's birthday,
+what is required is to fill your birthday year,month,day,and your gender.
+after that you click on the submit button, the needed information will appear immediatly.
 ## Setup/Installation Requirements
 1.you must have a terminal.
 2.you must have a brower.
